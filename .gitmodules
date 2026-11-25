@@ -1,0 +1,9 @@
+[submodule "contrib/TP4056-LiPo-charger-with-DW01A-and-FS8205A-MOSFET-protection"]
+	path = contrib/TP4056-LiPo-charger-with-DW01A-and-FS8205A-MOSFET-protection
+	url = https://github.com/Cyclone-92/TP4056-LiPo-charger-with-DW01A-and-FS8205A-MOSFET-protection.git
+[submodule "contrib/minipc-power"]
+	path = contrib/minipc-power
+	url = https://github.com/jvanderberg/minipc-power.git
+[submodule "contrib/kicad-skills"]
+	path = contrib/kicad-skills
+	url = https://github.com/jvanderberg/kicad-skills.git
